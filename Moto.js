@@ -1,4 +1,4 @@
-import Vehiculo from "./Vehiculo";
+import Vehiculo from "./Vehiculo.js";
 
 class Moto extends Vehiculo{
     constructor(marca, modelo, cilindrada){
