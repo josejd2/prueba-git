@@ -1,1 +1,1 @@
-Aprender Git es divertido.
+Git nos ayuda a controlar versiones.
