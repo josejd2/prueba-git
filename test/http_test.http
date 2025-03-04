@@ -1,6 +1,5 @@
 ### Peticion GET
 GET https://jsonplaceholder.typicode.com/posts
-
 ### Peticion POST
 POST https://jsonplaceholder.typicode.com/posts HTTP/1.1
 Content-Type: application/json
@@ -10,3 +9,5 @@ Content-Type: application/json
     "body" : "Este es un test de HTTP",
     "userId" : 1
 }
+### Peticion DELETE
+DELETE https://jsonplaceholder.typicode.com/posts/1
