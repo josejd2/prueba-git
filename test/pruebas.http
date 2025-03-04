@@ -1,0 +1,4 @@
+### Ruta raíz 
+GET http://localhost:3000/
+### Ruta con parametros
+GET http://localhost:3000/saludo/Juan
